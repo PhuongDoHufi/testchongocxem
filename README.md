@@ -1,2 +1,0 @@
-# testchongocxem
-ngoc ngu ngoc
